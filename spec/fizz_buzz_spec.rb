@@ -15,6 +15,6 @@ describe 'fizz_buzz' do
   end
 
   it "returns 'fizzbuzz' if number is divisible by 3 and 5" do
-    expect(fizz_buzz(15)).to eq 'fizzbuzz'
+    expect(fizz_buzz(15)).to eq 'fizzruzz'
   end
 end
